@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diazromans
 - 👀 I’m interested in God, sports and cars
-- 🌱 I’m currently learning full stack develpment 
+- 🌱 I’m currently learning how to become a cybersecurity analyst
 - 💞️ I’m looking to collaborate on doing a project for my church 
 - 📫 How to reach me 
 
